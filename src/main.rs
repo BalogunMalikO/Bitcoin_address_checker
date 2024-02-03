@@ -50,7 +50,7 @@ fn main() {
             };
             
         },
-        Err(_) => println!("error"),
+        Err(_) => println!("Error: This is not a bitcoin address"),
         
       
     }
